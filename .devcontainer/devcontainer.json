@@ -1,0 +1,6 @@
+{
+  "name": "Example Codespace",
+  "features": {
+    "./features/wireguard-apt-get": {}
+  }
+}
